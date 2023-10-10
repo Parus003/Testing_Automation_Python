@@ -1,0 +1,9 @@
+address: https://test-stand.gb.ru
+browser: chrome
+sleep_time: 1
+implicitly_wait: 3
+username: Test-one
+password: aa12b604e4
+test_title: Пост создан автоматически
+test_description: Пост создан автоматически
+test_content: Verification - Contact us
